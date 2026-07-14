@@ -1,0 +1,26 @@
+.TNB{
+    background-color: rgb(13, 241, 192);
+    font-family: monospace;
+    font-size: 13px;
+    font-weight:bold;
+    border: solid, 5px, rgb(255, 0, 0);
+    Border-radius: 30px;
+    padding: 13px;
+    width: fit-content;
+    height: fit-content;
+}
+body{
+    background-color: rgb(247, 159, 255);
+}
+.list{
+    font-family: Verdana;
+    font-weight:Bold;
+}
+.DISCLAIMER{
+    Border: solid, 10px, blue;
+    border-radius: 15px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight:bold;
+    width:fit-content;
+}
